@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "chien testing",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "test"
+  },
+  "dependencies": {
+    "express": "3.2.4"
+  }
+  "keywords": [
+    "test"
+  ],
+  "author": "chien",
+  "license": "ISC"
+}
